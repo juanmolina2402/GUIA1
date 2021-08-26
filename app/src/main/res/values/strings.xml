@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GUIA - 1</string>
+    <string name="msgGuia">MI PRIMERA GUÍA</string>
+    <string name="msgCalculadora">Calculadora</string>
+    <string name="msgFormulario">Formulario login</string>
+    <string name="msgDatos">Mis datos</string>
+    <string name="msgNombre">Nombre: Juan Carlos Molina Chamel</string>
+    <string name="msgCodigo">Código: MC17-I04-004</string>
+    <string name="msgCorrelativo">Correlativo de asistencia: 24</string>
+    <string name="msgAnuncio">INGRESE SUS DATOS</string>
+    <string name="msgEmail">Correo electrónico</string>
+    <string name="msgPassword">Contraseña</string>
+    <string name="msgLogin">Iniciar sesión</string>
+</resources>
